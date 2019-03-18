@@ -60,7 +60,7 @@ const panelDefaults = {
     arrowMarkerAbsolute: true, // - This options controls whether or arrow markers in html code will be absolute paths or an anchor, #. This matters if you are using base tag settings.
     flowchart: {
       htmlLabels: true,
-      useMaxWidth: true
+      useMaxWidth: false
     },
     sequenceDiagram: {
       diagramMarginX: 50, // - margin to the right and left of the sequence diagram
